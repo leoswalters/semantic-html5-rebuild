@@ -1,0 +1,17 @@
+F2: Web UI
+Leo Walters
+Date: 4-1-2015
+Assignment 1: Site outline
+
+Site used:  http://quaycoffee.com
+
+Outline:
+
+1. Quay Coffee
+    1. about us
+    2. the menu
+    3. contact us
+    4. instagram
+    5. twitter
+    6. popular links
+    7. hours
